@@ -1,5 +1,12 @@
 Apresentação do código
 
+Utilizei o android Studio para fazer o programa, com ajuda de foruns, pesquisas no google e ferramentas de IA para aprendizado.
+
+Como não tinha um projeto para melhorar da matéria PIT I.
+
+Acabei criando o código do zero.
+
+Segue o código e uma pequena explicação.
 
 
 // Pacote e imports necessários para o projeto Android
@@ -306,3 +313,5 @@ Configuração de Eventos Toque/Pressionar
         setupGridLayout();
     }
 }
+
+// agora vou demostrar o .apk em funcionamento. Aceito sugestões para melhoria do projeto.
